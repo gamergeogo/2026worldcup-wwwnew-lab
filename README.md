@@ -1,2 +1,14 @@
 # 2026worldcup-wwwnew-lab
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
